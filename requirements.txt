@@ -1,3 +1,4 @@
+python==3.7.5
 absl-py==1.1.0
 asttokens==2.0.5
 autopage==0.5.0
